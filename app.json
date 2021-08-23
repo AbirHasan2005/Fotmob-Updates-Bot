@@ -1,0 +1,40 @@
+{
+    "name": "Telegram Fotmob Updater Bot",
+    "description": "A very simple Telegram Bot which will update ongoing matches of fotmob.com in a channel by @AbirHasan2005",
+    "keywords": [
+        "telegram",
+        "fotmob",
+        "matches",
+        "updates",
+        "bot"
+    ],
+    "repository": "https://github.com/AbirHasan2005/Fotmob-Bot",
+    "website": "https://telegram.dog/AbirHasan2005",
+    "success_url": "https://t.me/Fotmob_Updates",
+    "env": {
+        "API_ID": {
+            "description": "Get this value from my.telegram.org or @TeleORG_Bot"
+        },
+        "API_HASH": {
+            "description": "Get this value from my.telegram.org or @TeleORG_Bot"
+        },
+        "BOT_TOKEN": {
+            "description": "Get this from @BotFather XD"
+        },
+        "STATUS_UPDATE_CHANNEL_ID": {
+            "description": "A Telegram Channel ID where bot will send updates or matches."
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "stack": "heroku-20",
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}

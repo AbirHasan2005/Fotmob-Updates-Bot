@@ -1,0 +1,6 @@
+pyrogram
+TgCrypto
+aiohttp
+python-dotenv
+dnspython
+motor
