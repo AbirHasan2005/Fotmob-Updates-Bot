@@ -32,6 +32,9 @@ mv sample_configs.env configs.env
 python3 main.py
 ```
 
+### Support Group
+<a href="https://t.me/DevsZone"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+
 ## Follow on
 <p><a href="https://github.com/AbirHasan2005"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github" alt="github"></a></p>
 <p><a href="https://twitter.com/AbirHasan2005"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter" alt="twitter"></a></p>
