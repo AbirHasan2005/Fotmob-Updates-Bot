@@ -13,7 +13,7 @@ A very simple Telegram Bot which will update ongoing matches of [Fotmob](https:/
 ### Host on Heroku
 Just press the below button to deploy to [heroku](https://heroku.com).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AbirHasan2005/Forward-Client)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AbirHasan2005/Fotmob-Updates-Bot)
 
 ### Host on Replit
 Just press below button to host on [replit](https://replit.com).
